@@ -7,6 +7,12 @@
 
 ---
 
+## LITTLE HELP?
+![little_help](./little_help.png)
+
+
+---
+
 ## PASSIVE INFRARED SENSOR
 ![infrared_sensor](./infrared_sensor.png)
 
