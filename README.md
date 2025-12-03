@@ -7,6 +7,11 @@
 
 ---
 
+## PASSIVE INFRARED SENSOR
+![infrared_sensor](./infrared_sensor.png)
+
+---
+
 ## VIRTUAL REALITY BUZZER
 ![virtual_reality_buzzer](./virtual_reality_buzzer.png)
 
