@@ -7,6 +7,11 @@
 
 ---
 
+## LASER TAG EQUIPMENT
+![laser_tag_equipment](./laser_tag_equipment.png)
+
+---
+
 ## LITTLE HELP?
 ![little_help](./little_help.png)
 
