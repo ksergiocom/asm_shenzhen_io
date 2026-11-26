@@ -2,6 +2,8 @@
 
 ```
 Ojalá me hubiese metido a eléctrónica...
+
+*Nunca dije que supiese de esto :)
 ```
 
 
