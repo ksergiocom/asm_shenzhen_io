@@ -1,4 +1,10 @@
 # SHENZHEN I/0 
+
+```
+Ojalá me hubiese metido a eléctrónica...
+```
+
+
 ## BUILD CIRCUITS. WRITE CODE. RTFM.
 
 ![header](./header.jpg)
